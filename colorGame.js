@@ -26,6 +26,7 @@ for(var i=0; i<squares.length; i++) {
 
 		}
 		else{
+			this.style.backgroundColor = "#232323";
 			alert("wrong");
 		}
 	})
