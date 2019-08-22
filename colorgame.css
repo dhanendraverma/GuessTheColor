@@ -25,3 +25,11 @@ h1{
 	height: 30px;
 	text-align: center;
 }
+
+#reset{
+
+}
+
+.selected{
+	background: blue;
+}
